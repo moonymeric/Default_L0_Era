@@ -1,0 +1,124 @@
+----------------------
+# # # Era Design # # #
+----------------------
+
+# MoonyDragon
+* Coding and Balancing
+> https://forums.wesnoth.org/viewtopic.php?t=52853
+
+------------------------
+# # # Translations # # #
+------------------------
+
+- - -
+
+-------------------------
+# # # Unit Concepts # # #
+-------------------------
+
+# Aldarisvet
+* Mounted Peasant (=>Squire)
+> https://forums.wesnoth.org/viewtopic.php?p=590764#p590764
+* Pilferer
+> https://forums.wesnoth.org/viewtopic.php?p=590171#p590171
+
+# beetlenaut
+* Merman Citizen
+> data/campaigns/Dead_Water/units/Citizen.cfg
+* Merman Brawler
+> data/campaigns/Dead_Water/units/Brawler.cfg
+* Spook
+> data/add-ons/The_Founding_of_Borstep/units/Spirit_Spook.cfg
+
+# turin
+* Dwarvish Miner
+> data/campaigns/Sceptre_of_Fire/units/Dwarvish_Miner.cfg
+
+# Lord-Knightmare
+* Elvish Citizen
+> data/add-ons/The_Legend_Begins/units/elves-wood/Elvish_Civilian.cfg
+
+# Celtic_Minstrel
+* Elvish Healer
+> data/add-ons/Black_Cross_of_Aleron/units/initiate.cfg
+
+# MoonyDragon
+* Dwarvish Woodcutter
+> https://forums.wesnoth.org/viewtopic.php?p=657223#p657223
+* Dark Initiate
+> https://forums.wesnoth.org/viewtopic.php?p=657223#p657223
+
+# Ken_Oh
+* Nobleman
+> data/add-ons/Wesband/units/humans/Nobleman.cfg
+* Initiate
+> data/add-ons/Wesband/units/humans/Initiate.cfg
+* Civilian (=>Pilferer)
+> data/add-ons/Wesband/units/humans/Civilian.cfg
+* Walking Bones
+> data/add-ons/Wesband/units/undead/Walking_Bones.cfg
+* Spirit (=>Spook)
+> data/add-ons/Wesband/units/undead/Spirit.cfg
+* Elvish Courier
+> https://forums.wesnoth.org/viewtopic.php?p=485377#p485377
+* Squire
+> https://forums.wesnoth.org/viewtopic.php?p=485377#p485377
+
+--------------------------------
+# # # Artwork and Graphics # # #
+--------------------------------
+
+# Blarumyrran
+* Dwarvish Miner
+> data/campaigns/Sceptre_of_Fire/images/units/dwarves/miner.png
+
+# Sleepwalker
+* Dwarvish Woodcutter
+> data/core/images/units/dwarves/fighter-se-hammer.png
+
+# beetlenaut
+* Merman Citizen
+> data/campaigns/Dead_Water/images/units/merfolk/citizen.png
+* Merman Brawler
+> data/campaigns/Dead_Water/images/units/merfolk/brawler.png
+
+# artisticdude
+* Elvish Civilian
+> data/add-ons/The_Legend_Begins/images/units/elves-wood/civilian.png
+
+# Jetrel
+* Elvish Courier
+> data/core/images/units/elves-wood/scout.png
+* Walking Skeleton
+> data/core/images/units/undead-skeletal/archer/archer.png
+* Spook
+> data/core/images/units/undead-necromancers/adept.png
+
+# Ken_Oh
+* Initiate
+> https://forums.wesnoth.org/viewtopic.php?p=485377#p485377
+
+# Aldarisvet
+* Squire
+> https://forums.wesnoth.org/viewtopic.php?p=590764#p590764
+* Pilferer & Nobleman
+> https://forums.wesnoth.org/viewtopic.php?p=590167#p590167
+
+# Shield
+* Elvish Healer
+> https://forums.wesnoth.org/viewtopic.php?p=588804#p588804
+* Elvish Citizen
+> https://forums.wesnoth.org/viewtopic.php?p=588828#p588828
+
+# Kitty
+* Merman Brawler Portrait
+> data/campaigns/Dead_Water/images/portraits/brawler.png
+
+# thespaceinvader
+* Dwarvish Miner Portrait
+> https://forums.wesnoth.org/viewtopic.php?p=333557#p333557
+
+# fmunoz
+* Merfolk Attack Icons
+> data/campaigns/Dead_Water/images/attacks/fist-merman.png
+> data/campaigns/Dead_Water/images/attacks/tail-merman.png

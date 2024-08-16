@@ -1,0 +1,13 @@
+title="Default L0 Era"
+type="era"
+tags="dl0e"
+icon="units/undead/bat-se-2.png"~RC(magenta>purple)~O(0)~BLIT("units/human-peasants/woodsman-bow-defend.png"~RC(magenta>red)~CROP(12,0,59,68),0,4)~BLIT("units/human-peasants/ruffian-attack-5.png"~FL(horiz)~RC(magenta>blue)~CROP(0,6,58,66),14,0)
+version="1.5.0"
+author="MoonyDragon"
+passphrase=""
+email=""
+description="An era featuring level one leaders with level zero recruits. Consists of Loyalists, Rebels, Knalgans and Undead. Not considered balanced."
+
+[feedback]
+    topic_id=52853
+[/feedback]
